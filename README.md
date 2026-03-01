@@ -18,7 +18,7 @@ sudo apt install python3
 
 ## Usage
 ```bash
-python3 TicTacTie.py
+python3 tic-tac-toe.py
 ```
 
 **ENJOY THE GAME**
