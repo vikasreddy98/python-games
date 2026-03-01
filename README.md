@@ -1,2 +1,28 @@
 # Simple-TicTacToe-Python
-A simple Tic-Tac-Toe game made in python.
+This is a Simple Tic-Tac-Toe game build using **_Python_**.
+
+## Dependencies Required
+
+Python3
+
+### Install Python3
+**mac**
+```bash
+brew install python3
+```
+**Debian/Ubuntu**
+```bash
+sudo apt update
+sudo apt install python3
+``` 
+
+## Usage
+```bash
+python3 TicTacTie.py
+```
+
+**ENJOY THE GAME**
+
+
+
+
