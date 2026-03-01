@@ -1,5 +1,5 @@
 # Simple-TicTacToe-Python
-This is a Simple Tic-Tac-Toe game build using **_Python_**.
+This is a Simple Tic-Tac-Toe game built using **_Python_**.
 
 ## Dependencies Required
 
