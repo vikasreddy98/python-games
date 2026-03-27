@@ -1,5 +1,5 @@
-# Simple-TicTacToe-Python
-This is a Simple Tic-Tac-Toe game built using **_Python_**.
+# Python Games
+This Repository contains the games I've coded using **_Python_**.
 
 ## Dependencies Required
 
@@ -18,11 +18,5 @@ sudo apt install python3
 
 ## Usage
 ```bash
-python3 tic-tac-toe.py
+python3 <script.py>
 ```
-
-**ENJOY THE GAME**
-
-
-
-
